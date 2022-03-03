@@ -1,12 +1,7 @@
-<!--p align="center"><img src="http://svgur.com/i/3Dp.svg"></p-->
+## Gruvbox.vim
 
-gruvbox is heavily inspired by [badwolf][], [jellybeans][] and [solarized][].
-
-Designed as a bright theme with pastel 'retro groove' colors and light/dark mode switching in the way of [solarized][]. The main focus when developing gruvbox is to keep colors easily distinguishable, contrast enough and still pleasant for the eyes.
-
-   [badwolf]: https://github.com/sjl/badwolf
-   [jellybeans]: https://github.com/nanotech/jellybeans.vim
-   [solarized]: http://ethanschoonover.com/solarized
+This is a personal fork of [morhetz/gruvbox](https://github.com/morhetz/gruvbox)
+All credits, comments, etc should be redirected there.
 
 Attention
 ---------
